@@ -5,7 +5,7 @@ local M = {}
 M.setup = function()
 	return {
 		-- Basic editor
-		Normal = { fg = colors.fg, bg = colors.bg },
+		Normal = { fg = colors.fg, bg = colors.gray },
 		Cursor = { fg = colors.cursor_text, bg = colors.cursor },
 		Visual = { bg = colors.sel_bg, fg = colors.sel_fg },
 
