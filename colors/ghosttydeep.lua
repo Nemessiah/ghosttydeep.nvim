@@ -3,7 +3,7 @@ if vim.fn.exists("syntax_on") == 1 then
 	vim.cmd("syntax reset")
 end
 
-vim.o.background = "dark"
+vim.o.background = "gray"
 vim.cmd("set termguicolors")
 
 require("ghosttydeep").setup()
