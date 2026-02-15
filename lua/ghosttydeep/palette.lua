@@ -1,0 +1,26 @@
+return {
+	black = "#000000",
+	red = "#d70005",
+	green = "#1cd915",
+	yellow = "#d9bd26",
+	blue = "#5665ff",
+	magenta = "#b052da",
+	cyan = "#50d2da",
+	white = "#e0e0e0",
+
+	gray = "#535353",
+	bright_red = "#fb0007",
+	bright_green = "#22ff18",
+	bright_yellow = "#fedc2b",
+	bright_blue = "#9fa9ff",
+	bright_magenta = "#e09aff",
+	bright_cyan = "#8df9ff",
+	bright_white = "#ffffff",
+
+	bg = "#090909",
+	fg = "#cdcdcd",
+	cursor = "#d0d0d0",
+	cursor_text = "#151515",
+	sel_bg = "#780002",
+	sel_fg = "#ececec",
+}
